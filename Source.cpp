@@ -4,6 +4,7 @@
 #include<string.h>
 #pragma warning(disable:4996)
 
+//パラメータの構造体
 struct tag_Attributes
 {
 	int strength;
